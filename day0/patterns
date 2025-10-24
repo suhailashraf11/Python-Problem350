@@ -1,0 +1,101 @@
+100 Loop Pattern Problems in Ascending Order
+1. Print 5 stars in one line
+2. Print 10 numbers (1–10) in one line
+3. Print 1 to 10 vertically
+4. Print 5 stars vertically
+5. Print characters A–E
+6. Print numbers in reverse (10–1)
+7. Print first 10 even numbers
+8. Print first 10 odd numbers
+9. Print sum of first 10 numbers using loop
+10. Print multiplication table of 5
+11. Print numbers divisible by 3 (1–30)
+12. Print square of numbers (1–10)
+13. Print cube of numbers (1–5)
+14. Increasing star pattern
+15. Decreasing star pattern
+16. Number repeated per row
+17. Number triangle (1 to n)
+18. Alphabet triangle (A to D)
+19. Diagonal star pattern
+20. Right aligned triangle
+21. Right triangle of stars
+22. Left triangle of stars
+23. Full pyramid
+24. Inverted pyramid
+25. Diamond half pattern
+26. Square of stars (5×5)
+27. Hollow square (5×5)
+28. Hollow triangle
+29. Hollow inverted triangle
+30. Number square (same number in row)
+31. Number triangle (1 to n)
+32. Continuous numbers triangle
+33. Right aligned triangle
+34. Reverse number triangle
+35. Mirror right triangle
+36. Hollow right triangle
+37. Half diamond pattern
+38. Reverse half diamond pattern
+39. Alternating 1s and 0s
+40. Binary triangle pattern
+41. Full diamond pattern
+42. Hollow diamond pattern
+43. Hourglass pattern
+44. Butterfly pattern
+45. Pascal’s triangle
+46. Floyd’s triangle
+47. Palindrome triangle
+48. Numeric pyramid with spaces
+49. Alphabet pyramid
+50. Alphabet diamond
+51. Hollow diamond of alphabets
+52. Number diamond
+53. Zig-zag pattern
+54. Hollow pyramid
+55. Right half pyramid of numbers
+56. Reverse right half pyramid
+57. Incremental alphabet pattern
+58. Pyramid with increasing numbers per row
+59. Pyramid with decreasing numbers per row
+60. Diamond with mixed stars and numbers
+61. Fibonacci triangle
+62. Prime numbers in triangle pattern
+63. Factorial pattern
+64. Multiplication pattern
+65. Sum triangle
+66. Difference triangle
+67. Even–Odd alternate pattern
+68. 0–1 triangle
+69. Pyramid of squares
+70. Pyramid of cubes
+71. Palindrome number pyramid
+72. Reverse pyramid of alphabets
+73. Alphabet increment per row
+74. Character wave pattern
+75. Numeric wave pattern
+76. Inverted hollow pyramid
+77. Full hollow diamond
+78. Alternating symbol pattern (+, *)
+79. Border pattern of numbers
+80. Snake pattern of numbers
+81. Butterfly number pattern
+82. Hollow hourglass pattern
+83. Double pyramid pattern
+84. X pattern (diagonal cross)
+85. Plus (+) pattern
+86. Hollow square with diagonal stars
+87. Pyramid with centered numbers
+88. Diamond with centered alphabets
+89. Double mirrored triangle
+90. Hollow inverted full pyramid
+91. Numeric rhombus
+92. Hollow rhombus
+93. Star box with diagonals
+94. Zigzag stars (like heart top)
+95. Diamond with alternating rows
+96. Hollow butterfly pattern
+97. Pyramid using odd numbers only
+98. Pyramid using even numbers only
+99. Diamond pattern using alphabets in sequence
+100. Complex combined pattern (stars + numbers + spaces)
