@@ -1,0 +1,216 @@
+🐍 250 Python Problems (Basic to Hard)
+Organized in ascending order of difficulty.
+1. Print 'Hello, World!'
+2. Add two numbers entered by the user
+3. Find the largest of three numbers
+4. Check whether a number is even or odd
+5. Check whether a year is a leap year
+6. Calculate the sum of first N natural numbers
+7. Reverse a given number
+8. Find factorial of a number using loop
+9. Calculate simple interest and compound interest
+10. Check if a number is prime
+11. Generate multiplication table of a number
+12. Find the square root of a number
+13. Find the area of a circle given radius
+14. Find the area of a triangle given base and height
+15. Swap two numbers without using a third variable
+16. Convert Celsius to Fahrenheit
+17. Check if a character is a vowel or consonant
+18. Check if a string is palindrome
+19. Count number of digits in a number
+20. Calculate power of a number using loop
+21. Find sum of digits of a number
+22. Find GCD of two numbers
+23. Find LCM of two numbers
+24. Check whether a number is Armstrong number
+25. Find all factors of a number
+26. Display Fibonacci sequence up to N terms
+27. Print all prime numbers between 1 to N
+28. Check whether a number is perfect number
+29. Find ASCII value of a character
+30. Make a simple calculator using if-else
+31. Find largest element in a list
+32. Find smallest element in a list
+33. Find average of numbers in a list
+34. Count even and odd numbers in a list
+35. Print sum of all numbers in a list
+36. Remove duplicates from a list
+37. Check if an element exists in a list
+38. Find second largest number in a list
+39. Print all even numbers in a list
+40. Find factorial using recursion
+41. Find reverse of a string
+42. Check if string contains only digits
+43. Count vowels and consonants in a string
+44. Find length of string without using len()
+45. Concatenate two strings without using +
+46. Sort words alphabetically in a string
+47. Replace substring in a string
+48. Print pattern of stars in pyramid shape
+49. Print Floyd’s triangle pattern
+50. Generate Pascal’s triangle
+51. Count frequency of elements in a list
+52. Find sum of elements in a tuple
+53. Find maximum and minimum in a tuple
+54. Convert list to tuple and vice versa
+55. Check if a key exists in dictionary
+56. Merge two dictionaries
+57. Sort dictionary by keys
+58. Sort dictionary by values
+59. Find sum of all values in a dictionary
+60. Count occurrences of a word in a file
+61. Copy contents from one file to another
+62. Count number of lines in a text file
+63. Remove punctuation from a string
+64. Find unique words in a text file
+65. Implement a function to check palindrome
+66. Implement Fibonacci sequence using recursion
+67. Find factorial using recursion
+68. Use lambda, map, filter, reduce together
+69. Find intersection and union of two sets
+70. Write a function to calculate compound interest
+71. Create a function to check prime number
+72. Function to return maximum of three numbers
+73. Write a function to reverse a string
+74. Write a function to count vowels in a string
+75. Implement binary search algorithm
+76. Implement linear search algorithm
+77. Implement bubble sort algorithm
+78. Implement selection sort algorithm
+79. Implement insertion sort algorithm
+80. Use list comprehension to filter even numbers
+81. Generate list of squares using list comprehension
+82. Create a function to calculate factorial using recursion
+83. Write a class to represent a Student
+84. Add methods to Student class for marks and grade
+85. Create a class for BankAccount with deposit and withdraw
+86. Write program to find prime numbers using list comprehension
+87. Implement matrix addition
+88. Implement matrix multiplication
+89. Find transpose of a matrix
+90. Check if matrix is symmetric
+91. Count frequency of characters in a string
+92. Find duplicate elements in a list
+93. Sort list of tuples based on second element
+94. Implement simple exception handling
+95. Handle multiple exceptions in one block
+96. Use finally block for file close
+97. Demonstrate try, except, else, finally
+98. Raise custom exceptions
+99. Write a program to log data into a file
+100. Use datetime module to get current date and time
+101. Display calendar of given month and year
+102. Program to convert decimal to binary, octal, hexadecimal
+103. Reverse words in a string using split and join
+104. Count uppercase, lowercase, digits, and special characters
+105. Create and import a custom module
+106. Read and write JSON file
+107. Parse CSV file and display content
+108. Use 'os' module to list files in directory
+109. Use 'shutil' module to copy files
+110. Create decorator to measure function execution time
+111. Use generator to yield Fibonacci numbers
+112. Implement generator for even numbers
+113. Use 're' module to extract emails from a text
+114. Validate phone numbers using regex
+115. Find all hashtags from a given string using regex
+116. Use threading to run two functions simultaneously
+117. Use multiprocessing to perform parallel computation
+118. Implement logging with timestamp
+119. Create a class using inheritance
+120. Demonstrate multiple inheritance in Python
+121. Demonstrate polymorphism with example
+122. Use @staticmethod and @classmethod decorators
+123. Create a context manager using 'with' keyword
+124. Demonstrate use of zip() and enumerate()
+125. Use any() and all() functions
+126. Sort dictionary by values using lambda
+127. Use map and filter with lambda for a list
+128. Demonstrate shallow and deep copy difference
+129. Implement binary search recursively
+130. Implement merge sort
+131. Implement quick sort
+132. Demonstrate use of itertools module
+133. Create random password generator using random module
+134. Send email using smtplib (dummy example)
+135. Demonstrate property decorators in a class
+136. Handle JSONDecodeError exception
+137. Demonstrate recursion depth limit error
+138. Measure execution time using timeit module
+139. Write a simple unit test using unittest
+140. Create class to overload operators
+141. Implement singleton design pattern
+142. Simulate ATM program using OOP
+143. Create file organizer (move files by type)
+144. Generate QR code from string
+145. Web scrape titles from a website using BeautifulSoup
+146. Convert speech to text using speech_recognition (mock)
+147. Implement Caesar cipher encryption/decryption
+148. Use functools.lru_cache for memoization
+149. Demonstrate async/await using asyncio
+150. Create REST API using Flask (basic endpoint)
+151. Handle JSON requests in Flask
+152. Use requests module to fetch API data
+153. Download image from URL using requests
+154. Parse HTML table using BeautifulSoup
+155. Read and write Excel file using openpyxl
+156. Validate email using regex
+157. Implement stack using list
+158. Implement queue using class
+159. Implement priority queue
+160. Implement singly linked list
+161. Implement doubly linked list
+162. Detect loop in linked list
+163. Reverse a linked list
+164. Implement binary tree traversal
+165. Implement binary search tree insert and delete
+166. Find height of binary tree
+167. Level order traversal of binary tree
+168. Implement graph using adjacency list
+169. Depth First Search (DFS)
+170. Breadth First Search (BFS)
+171. Find shortest path using Dijkstra’s algorithm
+172. Find connected components in graph
+173. Topological sort implementation
+174. Implement stack using two queues
+175. Implement queue using two stacks
+176. Implement LRU Cache
+177. Implement word count using dictionary
+178. Find first non-repeating character in a string
+179. Implement binary heap
+180. Implement merge intervals problem
+181. Find missing number in array
+182. Find duplicate number in array
+183. Rotate matrix by 90 degrees
+184. Spiral order matrix traversal
+185. Search element in rotated sorted array
+186. Longest common prefix among strings
+187. Longest palindrome substring
+188. Find pairs with given sum in array
+189. Count inversion in array
+190. Find majority element in array
+191. Find kth smallest element using heap
+192. Kadane’s algorithm for max subarray sum
+193. 0/1 Knapsack problem (DP)
+194. Longest increasing subsequence (DP)
+195. Coin change problem (DP)
+196. Matrix chain multiplication (DP)
+197. Minimum edit distance between two strings
+198. N-Queens problem (Backtracking)
+199. Sudoku solver (Backtracking)
+200. Rat in a maze problem (Backtracking)
+201. TSP (Traveling Salesman Problem) approximation
+202. Generate all permutations of string
+203. Word break problem (DP)
+204. Subset sum problem (DP)
+205. Implement KMP string search algorithm
+206. Implement Trie and search word
+207. Build REST API with Flask + SQLite
+208. Simple chatbot using Python logic
+209. Mini project: Expense tracker CLI
+210. Mini project: Weather app using API
+211. Mini project: Contact book app
+212. Mini project: File backup utility
+213. Mini project: Quiz game
+214. Mini project: Password manager
