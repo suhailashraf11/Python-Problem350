@@ -7,8 +7,6 @@ for i in range(1,31):
 for i in range(3,31, 3):
     print(i)
 
-
-
 # 12. Print square of numbers (1–10)
 for i in range(1,11):
     print(f'this is the square root {i} x {i} that is equal to {i*i}')

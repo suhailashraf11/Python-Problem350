@@ -11,7 +11,7 @@ print(nums)
 
 number  = 13456
 nums = 1
-git
+
 # 8. Find factorial of a number using loop
 factors = int(input('enter the number: '))
 initial = 0
