@@ -30,14 +30,10 @@ for row in range(5):
     for col in range(row+1):
         print('*', end=' ')
     print()
-
-
 print('-------------------------------------------------------------------')
 for i in range(1,6):
     print('* '*i)
 print('-------------------------------------------------------------------')
-
-
 # 15. Decreasing star pattern
 for i in range(5, 0, -1):
     for j in range(i):

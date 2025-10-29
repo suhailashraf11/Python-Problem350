@@ -1,2 +1,2 @@
 # introductions
-# what is ooops
+# what is oops
