@@ -1,13 +1,11 @@
 # 16. Number repeated per row
-# 1
-# 12
-# 123
-# 1234
-# 12345
+
 for i in range(1,6):
-    for j in range(i, ):
+    for j in range(i ):
         print(i, end = ' ')
     print()
+
+
 for i in range(1,6):
     print(str(i) * i)
 
@@ -44,13 +42,19 @@ for i in range(ord('A'), ord('E')):
 # 0000*
 
 for i in range(1,6):
-    for j in range(i):
-
-
-
-# # 20. Right aligned triangle
-#     *
-#    **
-#   ***
-#  ****
-# *****
+    for j in range(1, 6):
+        if i == j:
+            print('*' , end = ' ')
+        else:
+            print('O', end = ' ')
+    print()
+#20. Number square (same number in row)
+# 11111
+# 22222
+# 33333
+# 44444
+# 55555
+for i in range(1,6):
+    for j in range(1,6):
+        print(i, end = ' ')
+    print()
