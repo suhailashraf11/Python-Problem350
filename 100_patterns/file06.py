@@ -2,10 +2,6 @@
 for i in range(10,0 ,-1):
     print(i)
 
-
-
-
-
 # 7. Print first 10 even numbers
 lis  = []
 for i in range(1,20+2):
@@ -37,6 +33,10 @@ print(add)
 # 5x1=5
 for i in range(1,11):
     print(f'{5} x {i} = {i*5}')
+
+
+#all done checked
+
 
 
 

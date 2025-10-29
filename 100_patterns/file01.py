@@ -23,3 +23,6 @@ for i in range(ord('A'), ord('E') +1):
     print(chr(i) , end = ' ')
 print()
 # ---------------------------------------------
+
+
+#all done checked
