@@ -1,3 +1,13 @@
+# 22. Left triangle of stars
+#     *
+#    **
+#   ***
+#  ****
+# *****
+
+
+
+
 n  = 5 #int(input('enter the number :'))
 for i in range(1, n+1):
     print(' ' * (n-i) + "*" *i)
@@ -10,4 +20,5 @@ for row in range(1, n+1):
     for stars in range(row):
         print('*', end = ' ')
     print()
+
 
