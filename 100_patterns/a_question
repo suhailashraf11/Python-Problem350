@@ -68,39 +68,261 @@
 *****
 *****
 *****
+
 27. Hollow square (5×5)
+*****
+*   *
+*   *
+*   *
+*****
+
 28. Hollow triangle
+*
+* *
+*   *
+*****
+
 29. Hollow inverted triangle
+*****
+*   *
+* *
+*
+
 30. Right aligned triangle
+    *
+   **
+  ***
+ ****
+*****
+
 31. Number triangle (1 to n)
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
 32. Continuous numbers triangle
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+
 33. Right aligned triangle
+    *
+   **
+  ***
+ ****
+*****
+
 34. Reverse number triangle
+5 4 3 2 1
+4 3 2 1
+3 2 1
+2 1
+1
+
 35. Mirror right triangle
+    *
+   **
+  ***
+ ****
+*****
+
 36. Hollow right triangle
+*
+* *
+*   *
+*     *
+*******
 37. Half diamond pattern
+*
+**
+***
+****
+***
+**
+*
 38. Reverse half diamond pattern
+****
+***
+**
+*
+**
+***
+****
 39. Alternating 1s and 0s
+1
+0 1
+1 0 1
+0 1 0 1
+1 0 1 0 1
 40. Binary triangle pattern
+1
+0 1
+1 0 1
+0 1 0 1
+1 0 1 0 1
 41. Full diamond pattern
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
 42. Hollow diamond pattern
+    *
+   * *
+  *   *
+ *     *
+*       *
+ *     *
+  *   *
+   * *
+    *
 43. Hourglass pattern
+*********
+ *******
+  *****
+   ***
+    *
+   ***
+  *****
+ *******
+*********
 44. Butterfly pattern
+
+*       *
+**     **
+***   ***
+**** ****
+*********
+**** ****
+***   ***
+**     **
+*       *
 45. Pascal’s triangle
+      1
+     1 1
+    1 2 1
+   1 3 3 1
+  1 4 6 4 1
 46. Floyd’s triangle
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+
 47. Palindrome triangle
+1
+121
+12321
+1234321
+123454321
+
+
 48. Numeric pyramid with spaces
+    1
+   2 2
+  3 3 3
+ 4 4 4 4
+5 5 5 5 5
+
+
 49. Alphabet pyramid
+
+    A
+   ABA
+  ABCBA
+ ABCDCBA
+ABCDEDCBA
+
+
 50. Alphabet diamond
+    A
+   ABA
+  ABCBA
+ ABCDCBA
+ABCDEDCBA
+ ABCDCBA
+  ABCBA
+   ABA
+    A
+
+
 51. Hollow diamond of alphabets
+    A
+   A A
+  A   A
+ A     A
+A       A
+ A     A
+  A   A
+   A A
+    A
+
+
 52. Number diamond
+
+    1
+   121
+  12321
+ 1234321
+123454321
+ 1234321
+  12321
+   121
+    1
+
 53. Zig-zag pattern
+  *   *   *
+ * * * * *
+*   *   *
 54. Hollow pyramid
+    *
+   * *
+  *   *
+ *     *
+*********
 55. Right half pyramid of numbers
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
 56. Reverse right half pyramid
+A
+B C
+D E F
+G H I J
+K L M N O
 57. Incremental alphabet pattern
+    1
+   2 3
+  4 5 6
+ 7 8 9 10
 58. Pyramid with increasing numbers per row
+    10
+   9 8
+  7 6 5
+ 4 3 2 1
 59. Pyramid with decreasing numbers per row
+
+    1
+   * *
+  2 2 2
+ * * * *
+3 3 3 3 3
+ * * * *
+  2 2 2
+   * *
+    1
+
 60. Diamond with mixed stars and numbers
 61. Fibonacci triangle
 62. Prime numbers in triangle pattern
