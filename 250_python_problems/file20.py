@@ -9,10 +9,11 @@ if base == 0:
 elif base == 1:
     print('Number is ',  base)
 
-initial = []
 for i in range(1,expo+1):
-    
+    power = base * i
+
+    print(power)
+print(base)
 
 
 
-print(initial)
