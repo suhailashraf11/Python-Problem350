@@ -76,13 +76,13 @@
 *****
 
 
-28. Hollow triangle
+#28. Hollow triangle
 *
 * *
 *   *
 *****
 
-29. Hollow inverted triangle
+#29. Hollow inverted triangle
 *****
 *   *
 * *
@@ -101,6 +101,7 @@
 1 2 3
 1 2 3 4
 1 2 3 4 5
+
 
 32. Continuous numbers triangle
 1
