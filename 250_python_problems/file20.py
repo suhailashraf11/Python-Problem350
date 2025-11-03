@@ -9,11 +9,16 @@ if base == 0:
 elif base == 1:
     print('Number is ',  base)
 
-for i in range(1,expo+1):
-    power = base * i
 
-    print(power)
-print(base)
+
+
+temp = 1
+for i in range(1, expo):
+    # temp += base * temp
+    temp = temp * (base)
+print(temp)
+
+
 
 
 
