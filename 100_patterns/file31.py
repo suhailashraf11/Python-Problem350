@@ -7,7 +7,8 @@
 
 
 n = int(input('enter number for better result  take atleast 6 or 5 digits above values: '))
-for row in range(1, n):
+for row in range(1, n+1):
     for col in range(1,row+1):
         print(col, end= ' ')
     print()
+# solved  and done
