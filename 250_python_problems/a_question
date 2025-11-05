@@ -19,15 +19,14 @@ Organized in ascending order of difficulty.
 17. Check if a character is a vowel or consonant
 18. Check if a string is palindrome
 19. Count number of digits in a number
+20. Check whether a number is Armstrong number
 
 
+#. Calculate power of a number using loop    (Not solved)
+#. Find sum of digits of a number
+#. Find GCD of two numbers
+#. Find LCM of two numbers
 
-# 20. Calculate power of a number using loop    (Not solved)
-
-
-21. Find sum of digits of a number
-
-23. Find LCM of two numbers
 24. Check whether a number is Armstrong number
 25. Find all factors of a number
 26. Display Fibonacci sequence up to N terms
