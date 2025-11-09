@@ -20,10 +20,9 @@ Organized in ascending order of difficulty.
 18. Check if a string is palindrome
 19. Count number of digits in a number
 20. Check whether a number is Armstrong number
+21 Calculate power of a number using loop    (Not solved) solved
 
-
-#. Calculate power of a number using loop    (Not solved)
-#. Find sum of digits of a number
+22. Find sum of digits of a number
 #. Find GCD of two numbers
 #. Find LCM of two numbers
 
