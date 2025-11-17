@@ -154,17 +154,21 @@
 ***
 ****
 39. Alternating 1s and 0s
+
 1
 0 1
 1 0 1
 0 1 0 1
 1 0 1 0 1
+
 40. Binary triangle pattern
 1
 0 1
 1 0 1
 0 1 0 1
 1 0 1 0 1
+
+
 41. Full diamond pattern
     *
    ***
