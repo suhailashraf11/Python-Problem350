@@ -1,11 +1,11 @@
-42. Hollow diamond pattern
-    *
-   * *
-  *   *
- *     *
-*       *
- *     *
-  *   *
-   * *
-    *
-
+# 42. Hollow diamond pattern
+#     *
+#    * *
+#   *   *
+#  *     *
+# *       *
+#  *     *
+#   *   *
+#    * *
+#     *
+#

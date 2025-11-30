@@ -21,13 +21,14 @@ Organized in ascending order of difficulty.
 19. Count number of digits in a number
 20. Check whether a number is Armstrong number
 21 Calculate power of a number using loop    (Not solved) solved
-
 22. Find sum of digits of a number
-#. Find GCD of two numbers
-#. Find LCM of two numbers
 
-24. Check whether a number is Armstrong number
-25. Find all factors of a number
+
+23. Find GCD of two numbers
+24. Find LCM of two numbers
+
+25. Check whether a number is Armstrong number
+26. Find all factors of a number
 file
 
 
